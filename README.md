@@ -16,7 +16,7 @@
 ```
 <br/>
 
-2、在 *<dependencies>* 中加入以下引用
+2、在 *dependencies* 中加入以下引用
 ```
 <dependency>
     <groupId>com.wxx</groupId>
@@ -25,7 +25,7 @@
 </dependency>
 ```
 
-    恭喜到这里你就可以使用啦!!!!
+#### 恭喜到这里你就可以使用啦!!!!
 
 - ### 功能使用
 
