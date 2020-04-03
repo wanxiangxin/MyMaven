@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 通过api推送到微信
  */
-public class WeiXinPush {
+public class WeChatPush {
 
     private static final String WX_TOKEN = "AT_F8mCMtagZEV4xnJ2rVyXHyuQtL0LPMKb";
     private static final String WX_UID = "UID_3AtCsJnWcrpF3yZcyoTw2OmzyVzx";
